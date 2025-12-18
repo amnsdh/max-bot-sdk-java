@@ -39,11 +39,11 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>com.github.amnsdh</groupId>
+	    <dependency>
+	        <groupId>com.github.amnsdh</groupId>
 	        <artifactId>max-bot-api-client-java</artifactId>
-	        <version>26333cea89</version>
-        </dependency>
+	        <version>5ba70ac7b7</version>
+	    </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
