@@ -13,6 +13,6 @@ public class Mocks {
 
     public static Message message(String text, List<Attachment> attachments) {
         MessageBody body = new MessageBody(null, null, text, attachments);
-        return new Message(null, null, body);
+        return new Message(null, null, body, null);
     }
 }
