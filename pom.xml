@@ -42,7 +42,7 @@
 	    <dependency>
 	        <groupId>com.github.amnsdh</groupId>
 	        <artifactId>max-bot-api-client-java</artifactId>
-	        <version>da5e7dec8d</version>
+	        <version>913d0cdc7e</version>
 	    </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
